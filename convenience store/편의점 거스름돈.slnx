@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="편의점 거스름돈/편의점 거스름돈.vcxproj" />
+</Solution>
