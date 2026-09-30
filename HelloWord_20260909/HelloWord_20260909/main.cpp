@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main()
- {
-	printf("Hello, World! 20260909\n");
+{
+	printf("qwer\n");
 	return 0;
 }
