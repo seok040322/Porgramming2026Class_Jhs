@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Ohm's Law Calculator/Ohm's Law Calculator.vcxproj" />
+  <Project Path="Ohm's Law Calculator/Ohm's Law Calculator.vcxproj" Id="5bd47460-4199-48d6-826a-7245d84059d3" />
 </Solution>

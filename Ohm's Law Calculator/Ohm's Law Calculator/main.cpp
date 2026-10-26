@@ -3,7 +3,6 @@
 int g_birth1 = 0;       // 모드 선택 (1: V, 2: I, 3: R, 0: Exit)
 int g_flag = 1;
 
-// 실수(소수점) 입력을 위해 float 타입 사용
 float Voltage = 0;
 float Current = 0;
 float Resistance = 0;
